@@ -1,3 +1,4 @@
+### Olá, seja bem vindo ao meu diretório. Esta página é somente um relatório do projeto, para acessar as análises na íntegra clique na pasta "notebooks" e em seguida no arquivo "notebook.ipynb" :smiley:
 # Airbnb Predict First Booking
 
 ## Construção de uma API que fará a predição de compra de novos clientes na plataforma
